@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">ButorShop</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="registration">Registration</string>
+    <string name="love">love</string>
+    <string name="itemn_v">itemnév</string>
+    <string name="leiras">Leiras</string>
+    <string name="buy">BUY</string>
+    <string name="close">CLOSE</string>
+
+    <string-array name="shoplist_name">
+        <item>LOVE wall decoration</item>
+        <item>wall decoration for cat lovers</item>
+        <item>Modern wall decoration</item>
+        <item>Modern wall decoration, pop art figure</item>
+        <item>Lion wall decoration</item>
+        <item>Gamer wall decoration</item>
+        <item>Flower holder</item>
+        <item>Flower holder</item>
+        <item>Flower holder</item>
+        <item>Mirror</item>
+        <item>Flower holder</item>
+        <item>Bathroom rug</item>
+        <item>Bathroom rug</item>
+        <item>Shower curtain</item>
+        <item>Shower curtain</item>
+    </string-array>
+
+    <string-array name="shoplist_info">
+        <item>Size: 17x37cm Material:Metal Color: gold,black</item>
+        <item>Size: 10x20cm Material:Wood Color: multicolor</item>
+        <item>Size: 34x25cm Material:Wood Color: black,grey</item>
+        <item>Size: 30x40cm Material:Wood Color: green,purple</item>
+        <item>Size: 30x40cm Material:Wood Color: black,white</item>
+        <item>Size: 20x30cm Material:Metal Color: red,white</item>
+        <item>Size: 32x122cm Material:Wood Color: light</item>
+        <item>Size: 32x93cm Material:Wood Color: light</item>
+        <item>Size: 32x72cm Material:Wood Color: light</item>
+        <item>Size: 52cm Material:polyester Color: beige</item>
+        <item>Size: 63cm Material:polyester Color: beige</item>
+        <item>Size: 50x80cm Material:polyester Color: grey</item>
+        <item>Size: 60x90cm Material:polyester Color: white</item>
+        <item>Size: 180x200cm Material:peva Color: white</item>
+        <item>Size: 180x180cm Material:peva Color: black</item>
+    </string-array>
+
+    <array name="shoplist_price">
+        <item>1300 FT</item>
+        <item>1000 FT</item>
+        <item>2200 FT</item>
+        <item>2200 FT</item>
+        <item>2000 FT</item>
+        <item>1500 FT</item>
+        <item>5000 FT</item>
+        <item>4000 FT</item>
+        <item>3000 FT</item>
+        <item>6100 FT</item>
+        <item>1200 FT</item>
+        <item>2500 FT</item>
+        <item>2100 FT</item>
+        <item>2700 FT</item>
+        <item>2900 FT</item>
+    </array>
+
+    <array name="shoplist_img">
+        <item>@drawable/butor</item>
+        <item>@drawable/butor2</item>
+        <item>@drawable/butor3</item>
+        <item>@drawable/butor4</item>
+        <item>@drawable/butor5</item>
+        <item>@drawable/butor6</item>
+        <item>@drawable/butor7</item>
+        <item>@drawable/butor8</item>
+        <item>@drawable/butor9</item>
+        <item>@drawable/butor10</item>
+        <item>@drawable/butor11</item>
+        <item>@drawable/butor12</item>
+        <item>@drawable/butor13</item>
+        <item>@drawable/butor14</item>
+        <item>@drawable/butor15</item>
+    </array>
+</resources>

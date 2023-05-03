@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imagebutor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:background="@drawable/image_border"
+            android:contentDescription="@string/love"
+            />
+
+        <TextView
+            android:id="@+id/itemnev"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_toRightOf="@id/imagebutor"
+            android:padding="12dp"
+            android:shadowColor="#6E6E6E"
+            android:shadowDx="-2"
+            android:layout_marginStart="140dp"
+            android:shadowDy="2"
+            android:shadowRadius="1"
+            android:text="@string/itemn_v"
+            android:textColor="#000000"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/leiras"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/itemnev"
+            android:layout_centerHorizontal="true"
+            android:layout_toRightOf="@id/imagebutor"
+            android:padding="12dp"
+            android:shadowColor="#6E6E6E"
+            android:shadowDx="-2"
+            android:shadowDy="2"
+            android:shadowRadius="1"
+            android:layout_marginStart="140dp"
+            android:text="@string/leiras"
+            android:textColor="#000000"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/ar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/leiras"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="12dp"
+            android:layout_toRightOf="@id/imagebutor"
+            android:padding="8dp"
+            android:shadowColor="#6E6E6E"
+            android:shadowDx="-2"
+            android:shadowDy="2"
+            android:layout_marginStart="140dp"
+            android:shadowRadius="1"
+            android:textColor="#000000"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/kosarba"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ar"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="140dp"
+            android:layout_toRightOf="@id/imagebutor"
+            android:text="@string/buy"
+            android:textSize="11sp"
+            app:backgroundTint="#E81010" />
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

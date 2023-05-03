@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "240362208855",
+    "project_id": "my-application-6e578",
+    "storage_bucket": "my-application-6e578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240362208855:android:2c5f4b245ff00cc914ad12",
+        "android_client_info": {
+          "package_name": "com.example.butorshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240362208855-spgblomj2r6s80krcq8tlsnqm75e0ufl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.butorshop",
+            "certificate_hash": "be84cbc2d0de2bc4d1f535bedbf0f4ca0ca27390"
+          }
+        },
+        {
+          "client_id": "240362208855-87evn1rfbf3aahthf0lum0m12abu78pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCneV-0MJPF5r9TuJ6LxGaxqa8N3HQj1xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240362208855-87evn1rfbf3aahthf0lum0m12abu78pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
